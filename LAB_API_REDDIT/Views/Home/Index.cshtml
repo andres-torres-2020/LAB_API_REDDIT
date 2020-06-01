@@ -1,0 +1,10 @@
+﻿@model Aww
+
+    <div>
+        @for (int i = 0; i < Model.data.children.ToArray().Length; i++)
+        {
+            <p>@Model.data.children[i].data.title</p>
+            <a href="@Model.data.children[i].data.url"><img src="@Model.data.children[i].data.thumbnail" /></a>
+        }
+
+    </div>

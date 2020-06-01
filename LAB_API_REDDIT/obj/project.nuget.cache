@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sz4LtiVev5z+n5wKmdkEUDLPRBQDMRM6xpj9Dd5yMuSIEMNG1RZMLyF5Eh1Db6iafccLSb7xap8xkL1Gjn7uUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andy\\Documents\\_MY\\MyDocuments\\MyCode\\GRAND CIRCUS\\andres_torres\\repos\\LAB_API_REDDIT\\LAB_API_REDDIT\\LAB_API_REDDIT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andy\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
